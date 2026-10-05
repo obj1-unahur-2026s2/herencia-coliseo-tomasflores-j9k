@@ -1,9 +1,3 @@
-object pepita {
-  var energy = 100
+object coliseo {
 
-  method energy() = energy
-
-  method fly(minutes) {
-    energy = energy - minutes * 3
-  }
 }
